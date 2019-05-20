@@ -1,0 +1,4 @@
+core,2
+peripheral,3
+short_Voice call,5
+long_Voice call,7
